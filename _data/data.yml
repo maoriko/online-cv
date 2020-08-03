@@ -16,7 +16,7 @@ sidebar:
     phone: +972 54 835 2222
     website:  #do not add http://
     linkedin: maor-paz-033bb1116
-    github: maoriko
+    github: https://github.com/maoriko
     gitlab:
     bitbucket:
     twitter: 
@@ -43,13 +43,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hardworking system administrator proficient in hardware, software and security planning. 
-      Able to select, install, configure and manage components. 
-      4 years of progressive IT experience.
-      Driven with expertise in infrastructure planning. 
-      looking forward to the next challenge aiming on DevOps junior position.
+      During my job experiance, I had a practical skills with interesting technologies, Tasks, People, In the whole role of my engineering practice 
+      include building and supporting web local SaaS in BigData area, Based on Linux and Windows on-premise and in Azure environment.
+      Infrastracture in local environment based on VMwart technologies monitoring and securing,
+      Linux server setups includs automation to create fully automated machines with ansible.
+      Takes the form part in automating, supporting and ensure CI/CD in product developing. 
+
 
 education:
+
+    - degree: Python development
+      university: INT-Collage
+      time: 2020 - 2021 
+      details: |
+        From zero to hero in three monthes, 
+        puts most effort on Databases and linux administration and automation.
+
+
     - degree: DevOps
       university: HackerU - Ramat-Gan
       time: 2019 - 2020
