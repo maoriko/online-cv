@@ -92,7 +92,16 @@ education:
 
 experiences:
     - role: DevOps Engineer
-      time: 2020 - Present
+      time: 2020 - present
+      company: Akeyless
+      details: |
+        Responsible on infrastracture on AWS, GCP, Azure.
+        Writing automating scripts in shell while using terraform and GitHub action.
+        Also managing K8S on both Azure and AWS, for high availabillity.
+    
+    
+    - role: DevOps Engineer
+      time: 2020 - 2021
       company: TA9, Tel-Aviv
       details: |
         Responsible on all company architecture, Depolyment tools such as Ansible, Azure DevOps automation CI/CD process.
@@ -129,18 +138,35 @@ skills:
 
     toolset:
       - name: Python 
-        level: 90%
+        level: 70%
 
       - name: BASH
-        level: 70%
+        level: 90%
 
       - name: PowerShell
         level: 80%
 
       - name: Linux Servers
-        level: 85%
-
-      - name: Windows Server
         level: 90%
+
+      - name: Windows Servers
+        level: 90%
+      
+      - name: Terraform
+        level: 80%
+        
+      - name: GitHub
+        level: 100%
+        
+      - name: Kubernetees
+        level: 85%
+        
+      - name: AWS
+        level: 80%
+        
+      - name: Azure
+        level: 80%
+        
+        
 footer: >
     
